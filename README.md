@@ -40,8 +40,10 @@
       - Check peak sales times (lunch, dinner, weekends)
 - Insights – Summarize key findings for decision-making.
   ## Conclusion
- - The analysis shows that medium and large pizzas are the most popular among customers, contributing the highest share of total sales.
- - Classic and special categories perform better in terms of both revenue and order quantity.
- - Peak sales occur during weekends and evening hours, indicating strong demand during leisure and family times.
- - Some pizza types have very low sales, suggesting that promotions or removal from the menu could be considered.
- - Overall, focusing on best-selling pizzas, popular time slots, and customer preferences can help increase revenue and improve customer satisfaction
+   - A large number of orders were placed, with medium and large pizzas being the most preferred sizes.
+   - The Classic and Special categories generated the highest demand and revenue.
+   - Sales peaked during evening hours and weekends, showing customer preference for leisure-time dining.
+   - The top 5 pizza types consistently contributed the most to overall sales volume and revenue.
+   - Some pizzas had very low sales, suggesting the need for discounts or menu adjustments.
+   - Cumulative revenue analysis revealed steady growth over time, with certain days outperforming others.
+   - By category, the top 3 pizza types in each group accounted for the majority of earnings, highlighting the importance of focusing on popular varieties.
