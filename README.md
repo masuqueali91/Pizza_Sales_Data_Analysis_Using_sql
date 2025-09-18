@@ -28,4 +28,20 @@
 - Q11  Determine the top 3 most order pizza type based on revenue.
 - Q12 Analyze the cumulative revenue generated over time.
 - Q13 Determine the top 3 most ordered pizza types  based on revenue for each pizza category.
-  
+
+## Process
+- Data Collection – Gather pizza sales dataset (from database,  CSV file).
+- Data Cleaning – Remove duplicates, handle missing values, standardize names (e.g., “L” vs “Large”).
+- Data Analysis using SQL
+      - Find total revenue and total orders.
+      - Identify best-selling and least-selling pizzas.
+      - Analyze sales by category (Veg, Non-Veg, Special).
+      - Analyze sales by size (S, M, L, XL).
+      - Check peak sales times (lunch, dinner, weekends)
+- Insights – Summarize key findings for decision-making.
+  ## Conclusion
+ - The analysis shows that medium and large pizzas are the most popular among customers, contributing the highest share of total sales.
+ - Classic and special categories perform better in terms of both revenue and order quantity.
+ - Peak sales occur during weekends and evening hours, indicating strong demand during leisure and family times.
+ - Some pizza types have very low sales, suggesting that promotions or removal from the menu could be considered.
+ - Overall, focusing on best-selling pizzas, popular time slots, and customer preferences can help increase revenue and improve customer satisfaction
